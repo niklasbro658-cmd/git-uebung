@@ -22,6 +22,7 @@ int ggt(int a, int b) {
     return a;
 
 }
+//test kommentar
 
 // Function to check if a string is a number
 int is_number(const char *str) {
